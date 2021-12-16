@@ -1,3 +1,4 @@
+#reference: https://github.com/waspinator/pycococreator/blob/master/examples/shapes/shapes_to_coco.py
 import datetime
 import json
 import os
